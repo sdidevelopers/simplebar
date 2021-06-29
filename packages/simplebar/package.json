@@ -1,6 +1,6 @@
 {
-  "version": "5.3.4",
-  "name": "simplebar",
+  "version": "5.3.5",
+  "name": "simplebar_sdi",
   "title": "SimpleBar.js",
   "description": "Scrollbars, simpler.",
   "files": [
